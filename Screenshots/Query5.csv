@@ -1,0 +1,11 @@
+category,total_orders,units_sold,category_revenue
+Sunglasses,3,3,46600.00
+Clothing,11,16,28565.00
+Electronics,10,12,19700.00
+Footwear,3,3,14240.00
+Beauty,4,7,4410.00
+"Home & Kitchen",4,7,1750.00
+"Skin Care",2,3,1698.00
+Health,1,1,1450.00
+"Pet Supplies",2,4,1000.00
+Perfume,1,1,680.00
