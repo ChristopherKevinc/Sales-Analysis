@@ -31,4 +31,4 @@ Connected data to Power BI and built an interactive sales dashboard.
 
 ## 👤 Author
 Christopher Kevin C
-MIS Executive | SQL | Power BI | Excel
+MIS Executive
